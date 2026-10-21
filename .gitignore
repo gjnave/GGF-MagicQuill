@@ -1,0 +1,11 @@
+.venv/
+venv/
+models/
+outputs/
+jobs/
+runtime/
+update-backups/
+__pycache__/
+*.pyc
+access.json
+.gradio/

@@ -1,0 +1,314 @@
+[
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "checkpoints/.DS_Store",
+    "path": "checkpoints/.DS_Store",
+    "size": 6148,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "checkpoints/SD1.5/.DS_Store",
+    "path": "checkpoints/SD1.5/.DS_Store",
+    "size": 6148,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "checkpoints/SD1.5/DreamShaper.safetensors",
+    "path": "checkpoints/SD1.5/DreamShaper.safetensors",
+    "size": 2132625894,
+    "sha256": "879db523c30d3b9017143d56705015e15a2cb5628762c11d086fed9538abd7fd"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "checkpoints/SD1.5/MeinaMix.safetensors",
+    "path": "checkpoints/SD1.5/MeinaMix.safetensors",
+    "size": 2132651818,
+    "sha256": "54ef3e3610eee7f0f6c9f9b82eee26aa404598512d800494d1db344e3bc560b1"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "checkpoints/SD1.5/ghostmix_v20Bakedvae.safetensors",
+    "path": "checkpoints/SD1.5/ghostmix_v20Bakedvae.safetensors",
+    "size": 2400065384,
+    "sha256": "e3edb8a26f44dfddc124129004b5ded3378be974b8d3bf82f43b9660d416d3d1"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "checkpoints/SD1.5/majicMIX_realistic.safetensors",
+    "path": "checkpoints/SD1.5/majicMIX_realistic.safetensors",
+    "size": 2132625894,
+    "sha256": "7c819b6d13663ed720c2254f4fe18373107dfef2448d337913c8fc545640881e"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "checkpoints/SD1.5/realisticVisionV60B1_v51VAE.safetensors",
+    "path": "checkpoints/SD1.5/realisticVisionV60B1_v51VAE.safetensors",
+    "size": 2132625894,
+    "sha256": "15012c538f503ce2ebfc2c8547b268c75ccdaff7a281db55399940ff1d70e21d"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/anything_v3.yaml",
+    "path": "configs/anything_v3.yaml",
+    "size": 1933,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v1-inference.yaml",
+    "path": "configs/v1-inference.yaml",
+    "size": 1873,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v1-inference_clip_skip_2.yaml",
+    "path": "configs/v1-inference_clip_skip_2.yaml",
+    "size": 1933,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v1-inference_clip_skip_2_fp16.yaml",
+    "path": "configs/v1-inference_clip_skip_2_fp16.yaml",
+    "size": 1956,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v1-inference_fp16.yaml",
+    "path": "configs/v1-inference_fp16.yaml",
+    "size": 1896,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v1-inpainting-inference.yaml",
+    "path": "configs/v1-inpainting-inference.yaml",
+    "size": 1992,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v2-inference-v.yaml",
+    "path": "configs/v2-inference-v.yaml",
+    "size": 1815,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v2-inference-v_fp32.yaml",
+    "path": "configs/v2-inference-v_fp32.yaml",
+    "size": 1816,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v2-inference.yaml",
+    "path": "configs/v2-inference.yaml",
+    "size": 1789,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v2-inference_fp32.yaml",
+    "path": "configs/v2-inference_fp32.yaml",
+    "size": 1790,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "configs/v2-inpainting-inference.yaml",
+    "path": "configs/v2-inpainting-inference.yaml",
+    "size": 4450,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "controlnet/color_finetune.safetensors",
+    "path": "controlnet/color_finetune.safetensors",
+    "size": 1445157120,
+    "sha256": "b18346e9b3a153f3a292574d958538c93f77e217c05ab08bffc09f1081a2f54d"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "controlnet/control_v11p_sd15_scribble.safetensors",
+    "path": "controlnet/control_v11p_sd15_scribble.safetensors",
+    "size": 1445157124,
+    "sha256": "387ade970396c191da0fd229d26bbb64f80b8b3c501a774d9838e54638deccb1"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "inpaint/brushnet/random_mask_brushnet_ckpt/config.json",
+    "path": "inpaint/brushnet/random_mask_brushnet_ckpt/config.json",
+    "size": 1384,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "inpaint/brushnet/random_mask_brushnet_ckpt/diffusion_pytorch_model.safetensors",
+    "path": "inpaint/brushnet/random_mask_brushnet_ckpt/diffusion_pytorch_model.safetensors",
+    "size": 2475354520,
+    "sha256": "089f02196144dc2713d6d833355c1f11a73460155c9b33f86c9e2e73b4a77583"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "inpaint/brushnet/segmentation_mask_brushnet_ckpt/config.json",
+    "path": "inpaint/brushnet/segmentation_mask_brushnet_ckpt/config.json",
+    "size": 1381,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "inpaint/brushnet/segmentation_mask_brushnet_ckpt/diffusion_pytorch_model.safetensors",
+    "path": "inpaint/brushnet/segmentation_mask_brushnet_ckpt/diffusion_pytorch_model.safetensors",
+    "size": 1669734400,
+    "sha256": "02f9849340d41f9e27b16facd0c1debf1504aedb590f73638b1d3711e8deb61d"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/config.json",
+    "path": "llava-v1.5-7b-finetune-clean/config.json",
+    "size": 1395,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/generation_config.json",
+    "path": "llava-v1.5-7b-finetune-clean/generation_config.json",
+    "size": 124,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/model-00001-of-00003.safetensors",
+    "path": "llava-v1.5-7b-finetune-clean/model-00001-of-00003.safetensors",
+    "size": 4938985248,
+    "sha256": "fa70cff1948a6d2a37c454b317628ea03cdb6d431ea6d93607f5c521bc34b31c"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/model-00002-of-00003.safetensors",
+    "path": "llava-v1.5-7b-finetune-clean/model-00002-of-00003.safetensors",
+    "size": 4947390768,
+    "sha256": "02bd0cca1575553d2dacc51db0f1307313e96575c24abb559897a2a264b19d74"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/model-00003-of-00003.safetensors",
+    "path": "llava-v1.5-7b-finetune-clean/model-00003-of-00003.safetensors",
+    "size": 4239524472,
+    "sha256": "39f1c9c21594bf3dd37d0f918c2c47f942a0b3a4b7ccb5916f5e84175c51b2ac"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/model.safetensors.index.json",
+    "path": "llava-v1.5-7b-finetune-clean/model.safetensors.index.json",
+    "size": 73152,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/special_tokens_map.json",
+    "path": "llava-v1.5-7b-finetune-clean/special_tokens_map.json",
+    "size": 552,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/tokenizer.model",
+    "path": "llava-v1.5-7b-finetune-clean/tokenizer.model",
+    "size": 499723,
+    "sha256": "9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "llava-v1.5-7b-finetune-clean/tokenizer_config.json",
+    "path": "llava-v1.5-7b-finetune-clean/tokenizer_config.json",
+    "size": 936,
+    "sha256": null
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "preprocessor/sk_model.pth",
+    "path": "preprocessor/sk_model.pth",
+    "size": 17173511,
+    "sha256": "c686ced2a666b4850b4bb6ccf0748031c3eda9f822de73a34b8979970d90f0c6"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "preprocessor/sk_model2.pth",
+    "path": "preprocessor/sk_model2.pth",
+    "size": 17173511,
+    "sha256": "30a534781061f34e83bb9406b4335da4ff2616c95d22a585c1245aa8363e74e0"
+  },
+  {
+    "repo": "LiuZichen/MagicQuill-models",
+    "revision": "2d6d8782f1277902ce910c0189d82baee40cab6c",
+    "filename": "preprocessor/table5_pidinet.pth",
+    "path": "preprocessor/table5_pidinet.pth",
+    "size": 2871148,
+    "sha256": "80860ac267258b5f27486e0ef152a211d0b08120f62aeb185a050acc30da486c"
+  },
+  {
+    "repo": "openai/clip-vit-large-patch14-336",
+    "revision": "ce19dc912ca5cd21c8a653c79e251e808ccabcd1",
+    "filename": "config.json",
+    "path": "clip-vit-large-patch14-336/config.json",
+    "size": 4757,
+    "sha256": null
+  },
+  {
+    "repo": "openai/clip-vit-large-patch14-336",
+    "revision": "ce19dc912ca5cd21c8a653c79e251e808ccabcd1",
+    "filename": "preprocessor_config.json",
+    "path": "clip-vit-large-patch14-336/preprocessor_config.json",
+    "size": 316,
+    "sha256": null
+  },
+  {
+    "repo": "openai/clip-vit-large-patch14-336",
+    "revision": "ce19dc912ca5cd21c8a653c79e251e808ccabcd1",
+    "filename": "pytorch_model.bin",
+    "path": "clip-vit-large-patch14-336/pytorch_model.bin",
+    "size": 1711974081,
+    "sha256": "c6032c2e0caae3dc2d4fba35535fa6307dbb49df59c7e182b1bc4b3329b81801"
+  }
+]

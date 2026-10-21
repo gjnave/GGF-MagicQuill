@@ -1,0 +1,21 @@
+.gradio-container {padding:clamp(4px,1vw,16px)!important;font-family:"Segoe UI",Arial,sans-serif!important}
+.gradio-container .main {padding:0!important}
+#ggf-shell {padding:clamp(4px,1vw,12px)}
+#ggf-shell,#ggf-shell .row,#ggf-shell .column {min-width:0!important;max-width:100%}
+#ggf-shell .prose {overflow-wrap:anywhere}
+#ggf-phone-status,#ggf-phone-status p {color:#e8eef9!important}
+#ggf-phone-status a {color:#f5b942!important}
+#ggf-generate:disabled,#ggf-generate button:disabled {background:#334155!important;color:#b0bfd2!important}
+@media(max-width:700px){
+ #tool-bar {height:auto!important;min-height:36px;flex-wrap:wrap;overflow:visible!important;gap:8px!important;padding-bottom:8px}
+ #essential-tool-box,#stroke-size-box,#color-and-alpha-box,#painter-history-panel {flex-shrink:0!important;width:auto!important}
+ #tool-bar .painter-tool-icon {min-width:28px;min-height:28px}
+ #output-area {width:100%!important;margin:0!important;align-items:center}
+ .lower-area {display:flex!important;flex-direction:column!important;height:auto!important}
+ .side-bar {width:100%!important;min-height:36px;display:flex!important;flex-direction:row!important;align-items:center}
+ .layer-box,.layer-operation-box {display:flex!important;flex-direction:row!important;align-items:center}
+ #canvas-box {width:100%!important}
+ #left-box,#output-img-box {max-width:100%!important}
+ #prompt-input-box {max-width:100%!important}
+ #prompt-input {min-width:0!important;font-size:16px!important}
+}
